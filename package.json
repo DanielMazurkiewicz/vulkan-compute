@@ -1,0 +1,26 @@
+{
+  "name": "vulkan-compute",
+  "version": "1.0.0",
+  "description": "Vulkan computation API for node.js",
+  "main": "index.js",
+  "gypfile": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "buildDebug": "node-gyp build --debug"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielMazurkiewicz/vulkan-compute.git"
+  },
+  "keywords": [
+    "vulkan",
+    "computation",
+    "api"
+  ],
+  "author": "Daniel Mazurkiewicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielMazurkiewicz/vulkan-compute/issues"
+  },
+  "homepage": "https://github.com/DanielMazurkiewicz/vulkan-compute#readme"
+}
